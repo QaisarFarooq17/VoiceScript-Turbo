@@ -1,4 +1,5 @@
 # 🎙️ VoiceScript-Turbo
+![VoiceScript-Turbo](https://github.com/user-attachments/assets/e7927d2c-85af-4daf-a3b0-f65191c1a581)
 
 > **"Necessity is the mother of invention"**
 > 
