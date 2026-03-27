@@ -21,6 +21,32 @@
 
 ---
 
+## 🌍 Language Support
+
+VoiceScript-Turbo uses the **Whisper Large-v3-Turbo** model, which natively supports **99 different languages**, including multi-lingual translation tasks.
+
+To keep the interface clean, the application features a built-in dropdown menu with **14 specific presets** plus an Auto-Detect option.
+
+### Featured GUI Languages:
+1. **Auto Detect** (Detects any of the 99 supported languages automatically)
+2. **English** 🇬🇧/🇺🇸
+3. **Urdu** 🇵🇰
+4. **Hindi** 🇮🇳
+5. **Arabic** 🇸🇦
+6. **Turkish** 🇹🇷
+7. **French** 🇫🇷
+8. **German** 🇩🇪
+9. **Spanish** 🇪🇸
+10. **Italian** 🇮🇹
+11. **Portuguese** 🇵🇹
+12. **Chinese** 🇨🇳
+13. **Japanese** 🇯🇵
+14. **Korean** 🇰🇷
+
+> **Note:** If you need to transcribe a language not in this list (like Russian or Dutch), simply select **Auto Detect**. The underlying Whisper model will automatically identify and process it for you!
+
+---
+
 ## 🛠️ Technical Stack
 
 * **Transcription Engine**: `faster-whisper`
