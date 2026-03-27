@@ -75,3 +75,8 @@ python -m src.live_gui
 
 ## 💡 About the Project
 As a PhD researcher in Computer Science, time and data privacy are paramount. This tool was born out of a physical necessity following a sports injury, but it evolved into a robust solution for anyone needing professional-grade, local transcription without the latency or privacy risks of cloud-based APIs.
+
+---
+
+## 🙌 Acknowledgments
+I would like to extend a special thanks to **Muhammad Rashid** and **Hakim Ziani**. The core idea were first sparked and refined during our insightful discussions together over cups of coffee in the bar.
